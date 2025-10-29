@@ -1,12 +1,47 @@
-- 👋 Hi, I’m @JosephGabriels
-- 👀 I’m interested in CyberSecurity
-- 🌱 I’m currently learning at Hack The Box (HTB) for practical hackign lessons
-- 💞️ I’m looking to collaborate on cybersec platforms and defcons
-- 📫 Reach to me via josephgmugure@gmail.com
-- 😄 Pronouns: He
-- ⚡ Fun fact: Hacking is the 4R7 0F 3X9l0174710N
+<p align="center">
+  <img src="colored-logo.png" alt="EL-Technologies Logo" width="180" />
+</p>
 
-<!---
-JosephGabriels/JosephGabriels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 👋 Hey there, I'm Joseph G. Mugure  
+**CEO, EL-Technologies**
+
+💻 I'm a **Full-Stack Developer** specializing in building cross-platform experiences with **Flutter**, **React**, **Python**, and **Firebase**.  
+I love crafting apps that work seamlessly across **iOS**, **Android**, and the **web** — fast, reliable, and beautifully designed.
+
+---
+
+### 🚀 Tech Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+---
+
+### 🧠 What I’m Working On
+- 🧩 Building modern **Flutter apps** for iOS and Android  
+- 🌐 Developing **React web apps** with responsive, clean UIs  
+- 🔥 Integrating **Firebase** for authentication, storage, and analytics  
+- ⚙️ Designing **Python backends** (Flask / FastAPI) with RESTful APIs  
+
+---
+
+### 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephGabriels&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGabriels&layout=compact&theme=tokyonight)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JosephGabriels)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://YOURPORTFOLIO.com)  
+📧 **Email:** [josephgmugure@gmail.com](mailto:josephgmugure@gmail.com)  
+📱 **Phone:** +254 726 582 960  
+
+---
+
+⭐️ *"Code once, run everywhere — with elegance and performance."*
