@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="EL-Technologies Logo" width="180" />
+  <img src="logo-light.png" alt="EL-Technologies Logo" width="180" />
 </p>
 
 # 👋 Hey there, I'm Joseph G. Mugure  
