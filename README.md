@@ -29,10 +29,15 @@ I love crafting apps that work seamlessly across **iOS**, **Android**, and the *
 
 ---
 
-### 📊 GitHub Stats
+### ⚡ Development Dynamics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JosephGabriels&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JosephGabriels&layout=compact&theme=tokyonight)
+🌱 **Learning & Adapting:** Constantly exploring new frameworks and design systems to deliver scalable, future-ready solutions.  
+🧩 **Problem-Solving:** Turning complex requirements into smooth, functional experiences for end-users.  
+🚀 **Growth Mindset:** Continuously improving code structure, testing, and deployment pipelines.  
+
+#### 📈 Current Activity
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JosephGabriels&theme=tokyonight)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=JosephGabriels&theme=tokyo-night)
 
 ---
 
